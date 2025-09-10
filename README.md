@@ -33,5 +33,5 @@
 - Total hours: [1:30 Minutes]
 
 ## 🔹 Live Demo
-- GitHub Repo: [(https://github.com/Shashank5h3/Bootstrap.git)]
-- Live Site: [(https://68c170e2b60def1cf18e29a0--celebrated-llama-8c2b9d.netlify.app/)]
+- GitHub Repo: [(https://github.com/Shashank5h3/bootstrap.git)]
+- Live Site: (https://euphonious-panda-fbf9cf.netlify.app/)
