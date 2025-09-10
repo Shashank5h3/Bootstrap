@@ -1,0 +1,25 @@
+/* Custom Styling */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 600;
+}
+
+header {
+  background: linear-gradient(135deg, #0d6efd, #6610f2);
+  color: white;
+}
+
+header p {
+  color: #f8f9fa;
+}
+
+.card img {
+  object-fit: cover;
+}
+
+footer {
+  font-size: 0.9rem;
+}
