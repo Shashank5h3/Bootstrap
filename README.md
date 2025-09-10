@@ -30,8 +30,8 @@
 - Hands-on with Git, GitHub, and deployment.
 
 ## 🔹 Time Spent
-- Total hours: [Fill in your actual time]
+- Total hours: [1:30 Minutes]
 
 ## 🔹 Live Demo
-- GitHub Repo: [Your Repo Link]
-- Live Site: [GitHub Pages or Netlify Link]
+- GitHub Repo: [(https://github.com/Shashank5h3/Bootstrap.git)]
+- Live Site: [(https://68c170e2b60def1cf18e29a0--celebrated-llama-8c2b9d.netlify.app/)]

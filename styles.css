@@ -8,9 +8,12 @@ h1, h2, h3, h4, h5 {
 }
 
 header {
-  background: linear-gradient(135deg, #0d6efd, #6610f2);
-  color: white;
+  background: url('back.jpg') center/cover no-repeat;
+  color: rgb(211, 210, 212);
+  padding: 5rem 0;
 }
+
+
 
 header p {
   color: #f8f9fa;
